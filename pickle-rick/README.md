@@ -1,7 +1,7 @@
 # Write-up : TryHackMe - Pickle Rick
 
 **Date :** 28/12/2025
-**Auteur :** [Ton Pseudo]
+**Auteur :** SAINTY Yann
 **Catégorie :** Web / Linux
 **Difficulté :** Facile
 **Lien :** [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
