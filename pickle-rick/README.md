@@ -1,5 +1,3 @@
----
-
 # Write-up : TryHackMe - Pickle Rick
 
 **Date :** 28/12/2025
