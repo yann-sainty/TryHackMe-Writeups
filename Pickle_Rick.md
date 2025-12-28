@@ -1,9 +1,3 @@
-C'est une excellente initiative de faire des write-ups ! Cela t'aide à consolider tes connaissances et montre ton sérieux sur ton profil GitHub.
-
-Ton brouillon contient toutes les bonnes étapes techniques, mais la forme est un peu trop "orale" ("bingo", "je tape", etc.). Pour un rapport professionnel, on privilégie un ton plus structuré, descriptif et technique.
-
-Voici une version entièrement rédigée et formatée en Markdown, prête à être copiée-collée.
-
 ---
 
 # Write-up : TryHackMe - Pickle Rick
