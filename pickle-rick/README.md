@@ -44,6 +44,11 @@ Je note également des appels vers un dossier `/assets/`, ce qui confirme l'exis
 
 En parallèle, j'effectue une énumération des fichiers et répertoires (via script Nmap ou Gobuster) et j'identifie deux fichiers intéressants :
 
+``` bash
+nmap --script http-enum <IP>
+
+```
+
 * `/login.php` : Une page de connexion.
 * `/robots.txt` : Un fichier destiné aux bots d'indexation.
 
