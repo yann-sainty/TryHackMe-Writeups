@@ -8,6 +8,7 @@ Ce dépôt me sert de base de connaissances et de portfolio. Chaque dossier cont
 
 | Nom de la Room | Difficulté | Catégorie | Date | Lien du Write-up |
 | :--- | :--- | :--- | :--- | :--- |
+| **Basic Pentesting** | 🟢 Facile | Network, Brute-force, Linux | 02/01/2026 | [Lire le rapport](./BasicPentesting/README.md) |
 | **RootMe** | 🟢 Facile | Web, Linux, PrivEsc | 02/01/2026 | [Lire le rapport](./RootMe/README.md) |
 | **Pickle Rick** | 🟢 Facile | Web, Linux | 28/12/2025 | [Lire le rapport](./pickle-rick/README.md) |
 
@@ -17,7 +18,8 @@ Ce dépôt me sert de base de connaissances et de portfolio. Chaque dossier cont
 
 Voici les compétences que je développe à travers ces challenges :
 
-* **Reconnaissance :** Nmap, Gobuster, Nikto.
+* **Reconnaissance :** Nmap, Gobuster, Enum4linux, Nikto.
+* **Password Cracking :** Hydra (Brute-force), John The Ripper (Hash cracking), SSH Key Cracking.
 * **Web Hacking :** Injection de commandes, Upload Bypass, LFI/RFI.
 * **Système :** Linux (Bash), Privilege Escalation (SUID, Sudo rights), Reverse Shells.
 * **Scripting :** Python, PHP.
