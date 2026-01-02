@@ -18,7 +18,7 @@ Ce dépôt me sert de base de connaissances et de portfolio. Chaque dossier cont
 
 Voici les compétences que je développe à travers ces challenges :
 
-* **Reconnaissance :** Nmap, Gobuster, Enum4linux, Nikto.
+* **Reconnaissance :** Nmap, Gobuster, Enum4linux.
 * **Password Cracking :** Hydra (Brute-force), John The Ripper (Hash cracking), SSH Key Cracking.
 * **Web Hacking :** Injection de commandes, Upload Bypass, LFI/RFI.
 * **Système :** Linux (Bash), Privilege Escalation (SUID, Sudo rights), Reverse Shells.
