@@ -9,7 +9,7 @@ Ce dépôt me sert de base de connaissances et de portfolio. Chaque dossier cont
 | Nom de la Room | Difficulté | Catégorie | Date | Lien du Write-up |
 | :--- | :--- | :--- | :--- | :--- |
 | **RootMe** | 🟢 Facile | Web, Linux, PrivEsc | 02/01/2026 | [Lire le rapport](./RootMe/README.md) |
-| **Pickle Rick** | 🟢 Facile | Web, Linux | 28/12/2025 | [Lire le rapport](./PickleRick/README.md) |
+| **Pickle Rick** | 🟢 Facile | Web, Linux | 28/12/2025 | [Lire le rapport](./pickle-rick/README.md) |
 
 *(D'autres write-ups arrivent bientôt...)*
 
